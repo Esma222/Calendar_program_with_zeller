@@ -10,8 +10,7 @@ namespace homework1.calendar
             do
             {
                 try
-                {  // n pozitif sayısını atamayı unutma!atandı
-                   // mevsimleri ekleyeceğini unutma!eklendi
+                {  
                     int day1, day2, year1, year2;
                     string month1, month2, result;
                     int x = 1;
